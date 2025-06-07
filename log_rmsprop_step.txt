@@ -1,0 +1,9 @@
+Optimizer: rmsprop
+Scheduler: step
+Final Train Acc: 65.97%
+Test Acc: 69.29%
+Train Time: 2471.46s
+Test Time: 8.12s
+FLOPs: 37.25 MFLOPs
+Params: 11.18 M
+Model Size: 42.73 MB

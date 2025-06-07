@@ -1,0 +1,9 @@
+Optimizer: rmsprop
+Scheduler: cosine
+Final Train Acc: 61.88%
+Test Acc: 65.91%
+Train Time: 2445.37s
+Test Time: 8.50s
+FLOPs: 37.25 MFLOPs
+Params: 11.18 M
+Model Size: 42.73 MB

@@ -1,0 +1,9 @@
+Optimizer: adam
+Scheduler: step
+Final Train Acc: 83.49%
+Test Acc: 83.53%
+Train Time: 2481.84s
+Test Time: 8.22s
+FLOPs: 37.25 MFLOPs
+Params: 11.18 M
+Model Size: 42.73 MB

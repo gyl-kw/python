@@ -1,0 +1,9 @@
+Optimizer: sgd
+Scheduler: step
+Final Train Acc: 68.62%
+Test Acc: 71.53%
+Train Time: 2217.40s
+Test Time: 8.78s
+FLOPs: 37.25 MFLOPs
+Params: 11.18 M
+Model Size: 42.73 MB

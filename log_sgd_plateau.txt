@@ -1,0 +1,9 @@
+Optimizer: sgd
+Scheduler: plateau
+Final Train Acc: 61.36%
+Test Acc: 65.79%
+Train Time: 2208.69s
+Test Time: 8.16s
+FLOPs: 37.25 MFLOPs
+Params: 11.18 M
+Model Size: 42.73 MB

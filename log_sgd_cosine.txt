@@ -1,0 +1,9 @@
+Optimizer: sgd
+Scheduler: cosine
+Final Train Acc: 83.46%
+Test Acc: 82.89%
+Train Time: 2225.59s
+Test Time: 8.16s
+FLOPs: 37.25 MFLOPs
+Params: 11.18 M
+Model Size: 42.73 MB

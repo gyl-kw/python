@@ -1,0 +1,9 @@
+Optimizer: adam
+Scheduler: cosine
+Final Train Acc: 87.38%
+Test Acc: 84.69%
+Train Time: 2464.61s
+Test Time: 8.19s
+FLOPs: 37.25 MFLOPs
+Params: 11.18 M
+Model Size: 42.73 MB

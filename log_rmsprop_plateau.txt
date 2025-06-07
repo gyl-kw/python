@@ -1,0 +1,9 @@
+Optimizer: rmsprop
+Scheduler: plateau
+Final Train Acc: 49.51%
+Test Acc: 56.01%
+Train Time: 2515.82s
+Test Time: 8.21s
+FLOPs: 37.25 MFLOPs
+Params: 11.18 M
+Model Size: 42.73 MB

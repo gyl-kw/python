@@ -1,0 +1,9 @@
+Optimizer: adam
+Scheduler: plateau
+Final Train Acc: 75.65%
+Test Acc: 77.82%
+Train Time: 2450.51s
+Test Time: 8.20s
+FLOPs: 37.25 MFLOPs
+Params: 11.18 M
+Model Size: 42.73 MB
